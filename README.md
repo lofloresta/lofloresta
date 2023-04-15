@@ -20,7 +20,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height ="25px" width = "25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height ="25px" width = "25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height ="25px" width = "25px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height ="25px" width = "25px" />
 </div>
 <br>
 <div align="center">

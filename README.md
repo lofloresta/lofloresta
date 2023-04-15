@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-<img src="grid-snake.gif">
+<img src="grid-snake.svg">
 </br>
 <img src="cat-funny-cat.gif" height="400px">
 <img src="octocat-lyra.png" height="420px">

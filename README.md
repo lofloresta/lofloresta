@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-![Snake animation](https://github.com/lofloresta/lofloresta/blob/output/github-contribution-grid-snake.svg)
+<img src="grid-snake.gif">
 </br>
 <img src="cat-funny-cat.gif" height="400px">
 <img src="octocat-lyra.png" height="420px">

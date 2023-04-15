@@ -40,6 +40,6 @@
 ![Snake animation](https://github.com/lofloresta/lofloresta/blob/output/github-contribution-grid-snake.svg)
 </br>
 <h2><i> Isso é tudo por enquanto, <b>obrigada!</b></i></h2>
-<img src="IMG/cat-funny-cat.gif" height="400px">
-<img src="IMG/octocat-lyra.png" height="420px">
+<img src="cat-funny-cat.gif" height="400px">
+<img src="octocat-lyra.png" height="420px">
 </div>

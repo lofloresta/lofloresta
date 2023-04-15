@@ -3,8 +3,8 @@
   <h1 align="center">
     Oie, eu sou a 
     <a href="https://www.linkedin.com/in/lofloresta/">Lorena 🌸</a>
-  </h1>
-  <h2 align="center">Bem vindos ao meu perfil GitHub 👋</h2>
+   <br>
+    Bem vindos ao meu perfil GitHub 👋</h1>
   <p align="center">
   🌱 Sou estudante e estou aprendendo metodologias de experiência do usuário, modelagem e criação de banco de dados, integração de sistemas através de APIs, análise de relatórios de erros, desenvolvimento de sistemas e aplicações Web usando HTML, CSS, JavaScript, React e Node.js. 
   </p>
